@@ -15,7 +15,7 @@
 * [Slack](http://slack.com) 
 * [Basecamp](https://basecamp.com) 
 * [Bubbl](https://bubbl.us/) 
-* [Bubbl](https://marvelapp.com/) 
+* [Marvelapp](https://marvelapp.com/) 
 
 
 </br></br>
